@@ -23,3 +23,7 @@ def fibonacci(n):
         l.append(b)
     return l
     
+#Samuel
+def sal_sam():
+    return "Práctica de repositorio"
+    
